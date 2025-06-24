@@ -3,22 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/uniportfolio/disp1/</loc>
+    <loc>http://localhost:1313/WhoverPortfolio/</loc>
+    <lastmod>2022-09-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/uniportfolio/disp2/</loc>
+    <loc>http://localhost:1313/WhoverPortfolio/uniportfolio/pathtest1/</loc>
+    <lastmod>2022-09-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/WhoverPortfolio/uniportfolio/pathtest2/</loc>
+    <lastmod>2022-09-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/uniportfolio/</loc>
+    <loc>http://localhost:1313/WhoverPortfolio/uniportfolio/</loc>
+    <lastmod>2022-09-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/WhoverPortfolio/education/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Главная страница теста on Egor Pereverza</title>
-    <link>http://localhost:1313/uniportfolio/</link>
+    <link>http://localhost:1313/WhoverPortfolio/uniportfolio/</link>
     <description>Recent content in Главная страница теста on Egor Pereverza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Egor Pereverza</copyright>
-    <atom:link href="http://localhost:1313/uniportfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/WhoverPortfolio/uniportfolio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>disp1</title>
-      <link>http://localhost:1313/uniportfolio/disp1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>test1</title>
+      <link>http://localhost:1313/WhoverPortfolio/uniportfolio/pathtest1/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/uniportfolio/disp1/</guid>
-      <description></description>
+      <guid>http://localhost:1313/WhoverPortfolio/uniportfolio/pathtest1/</guid>
+      <description>A quick example of how to start using Thumbnails in your artciles.</description>
       
     </item>
     
     <item>
-      <title>disp2 что работает?</title>
-      <link>http://localhost:1313/uniportfolio/disp2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>test2</title>
+      <link>http://localhost:1313/WhoverPortfolio/uniportfolio/pathtest2/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/uniportfolio/disp2/</guid>
-      <description></description>
+      <guid>http://localhost:1313/WhoverPortfolio/uniportfolio/pathtest2/</guid>
+      <description>A quick example of how to start using Thumbnails in your artciles.</description>
       
     </item>
     

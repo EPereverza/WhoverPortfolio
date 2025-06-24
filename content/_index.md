@@ -7,3 +7,5 @@ title: "Home Page"
 >}}
 👋
 {{< /typeit >}}
+
+Репозиторий с работами по КП https://github.com/EPereverza/KP_2course

@@ -2,6 +2,5 @@
 title: "Главная страница теста"
 ---
 
-## Ниже по идее должна быть ссылка
+{{< list title="Samples" cardView=true limit=6 where="Type" value="sample" >}}
 
-[тык в дисп 1](/test/disp1)
